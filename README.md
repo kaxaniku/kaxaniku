@@ -7,6 +7,7 @@ I am an aspiring **.NET & Backend Developer** focused on building robust, scalab
 ### 🚀 Technical Stack
 
 * **Backend Development:** C#, .NET Core, ASP.NET Core, C/C++
+* **Frontend Fundamentals:** HTML5, CSS3, JavaScript (ES6+)
 * **Databases & Caching:** SQL Server, PostgreSQL, Entity Framework Core, Dapper, ADO.NET
 * **DevOps & Deployment:** Docker, Linux VPS Hosting, Nginx, HTTPS/TLS Configuration, Cloudflare
 * **Architecture & Tools:** Microservices, REST APIs, Git, Cloudflare, Clean Architecture
@@ -28,7 +29,7 @@ A decoupled, microservices-based web store designed to handle high-traffic backe
 A robust, monolithic RESTful API designed to simulate core banking operations, focusing on strict data consistency, secure financial transactions, and identity management.
 * **Key Implementations:** Implemented secure account management (cards, accounts, customers) with multi-layered transaction safety. Secured endpoints using JWT bearer tokens for authentication and structured a clean, decoupled monolithic architecture.
 * **Tech Stack:** ASP.NET Core, Entity Framework Core, MS SQL Server, JWT, NUnit.
-* *[View Repository](https://github.com/kaxaniku/Bank-Project/tree/KN-Industry-Bank/G15_MyBank/MyBank.API)*
+* *[View Repository](https://github.com/kaxaniku/Bank-Project/tree/KN-Industry-Bank/G15_MyBank)*
 
 ---
 
