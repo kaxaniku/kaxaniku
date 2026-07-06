@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kakha 👋
 
-<!--
-**kaxaniku/kaxaniku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **.NET & Backend Developer** focused on building robust, scalable, and secure server-side applications. I enjoy deep-diving into software architecture, database optimization, and computer science fundamentals, as well as adapting new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Stack
+
+* **Backend Development:** C#, .NET Core, ASP.NET Core, C/C++
+* **Databases & Caching:** SQL Server, PostgreSQL, Entity Framework Core, Dapper, ADO.NET
+* **DevOps & Deployment:** Docker, Linux VPS Hosting, Nginx, HTTPS/TLS Configuration, Cloudflare
+* **Architecture & Tools:** Microservices, REST APIs, Git, Cloudflare, Clean Architecture
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+
+---
+
+### 🛠️ Featured Projects
+
+Here are the primary projects I am currently highlighting. You can find their full codebases pinned below:
+
+#### 1. 🛍️ Microservices E-Commerce Platform
+A decoupled, microservices-based web store designed to handle high-traffic backend operations.
+* **Key Implementations:** Built using four dedicated APIs (Catalog, User, Cart, and Order management) communicating via REST and dedicated background worker.
+* **Tech Stack:** ASP.NET Core, EF Core,  MS SQL Server, MassTransit, Hangfire, Cloudflare.
+* *[View Repository](https://github.com/kaxaniku/WebStore/tree/WebStore-Online)*
+
+#### 2. 🏦 Secure Banking & Transaction API
+A robust, monolithic RESTful API designed to simulate core banking operations, focusing on strict data consistency, secure financial transactions, and identity management.
+* **Key Implementations:** Implemented secure account management (cards, accounts, customers) with multi-layered transaction safety. Secured endpoints using JWT bearer tokens for authentication and structured a clean, decoupled monolithic architecture.
+* **Tech Stack:** ASP.NET Core, Entity Framework Core, MS SQL Server, JWT, NUnit.
+* *[View Repository](https://github.com/kaxaniku/Bank-Project/tree/KN-Industry-Bank/G15_MyBank/MyBank.API)*
+
+---
+
+### 📈 What I'm Focused on Right Now
+* Writing clean, testable C# code and mastering enterprise design patterns.
+* Deepening my understanding of low-level memory management and security principles.
+* Proactively adapting to and experimenting with new technologies to broaden my engineering toolkit.
+* Cultivating a long-term architecture mindset rather than just memorizing syntax.
+
+📫 **How to reach me:** kaxaniku@gmail.com | https://www.linkedin.com/in/kakha-01001011-thedev/
