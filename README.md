@@ -39,4 +39,4 @@ A robust, monolithic RESTful API designed to simulate core banking operations, f
 * Proactively adapting to and experimenting with new technologies to broaden my engineering toolkit.
 * Cultivating a long-term architecture mindset rather than just memorizing syntax.
 
-📫 **How to reach me:** kaxaniku@gmail.com | https://www.linkedin.com/in/kakha-01001011-thedev/
+📫 **How to reach me:** https://www.linkedin.com/in/kakha-01001011-thedev/
