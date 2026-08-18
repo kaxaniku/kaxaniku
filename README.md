@@ -6,12 +6,12 @@ I am an aspiring **.NET & Backend Developer** focused on building robust, scalab
 
 ### 🚀 Technical Stack
 
-* **Backend Development:** C#, .NET Core, ASP.NET Core, C/C++
-* **Frontend Fundamentals:** HTML5, CSS3, JavaScript (ES6+)
-* **Databases & Caching:** SQL Server, PostgreSQL, Entity Framework Core, Dapper, ADO.NET
-* **DevOps & Deployment:** Docker, Linux VPS Hosting, Nginx, HTTPS/TLS Configuration, Cloudflare
-* **Architecture & Tools:** Microservices, REST APIs, Git, Cloudflare, Clean Architecture
-* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+* **Backend Development:** C#, .NET, ASP.NET Core, C/C++
+* **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS (MediatR)
+* **Databases & ORMs:** PostgreSQL, SQL Server, Entity Framework Core, Dapper, ADO.NET
+* **DevOps & Infrastructure:** Docker, Docker Compose, Linux VPS, Nginx, Traefik, Coolify, Cloudflare
+* **Testing & Quality:** xUnit, NUnit, Moq
+* **Core Concepts:** Object-Oriented Programming (OOP), Concurrency & Background Services, Data Structures & Algorithms
 
 ---
 
