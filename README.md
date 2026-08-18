@@ -35,7 +35,7 @@ A robust, monolithic RESTful API designed to simulate core banking operations, f
 A high-concurrency, domain-driven backend API and simulation engine modeling real-time nuclear thermodynamics, neutronics feedback loops, and 2D grid channel telemetry.
 * **Key Implementations:** Modeled dual-phase heat transfer, Doppler reactivity, and void coefficients using CQRS via MediatR and background tick workers (`IHostedService`). Implemented comprehensive unit testing with xUnit and Moq covering domain logic and repository filters.
 * **Tech Stack:** .NET 10, C#, MediatR, Entity Framework Core, PostgreSQL, xUnit, Moq.
-* *[View Repository](https://github.com/kaxaniku/rbmk-reactor-simulator)*
+* *[View Repository](https://github.com/kaxaniku/Nuclear-Reactor-Sim)*
 
 ---
 
