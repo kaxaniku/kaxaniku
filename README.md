@@ -8,6 +8,7 @@ I am an aspiring **.NET & Backend Developer** focused on building robust, scalab
 
 * **Backend Development:** C#, .NET, ASP.NET Core, C/C++
 * **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS (MediatR)
+* **Frontend & Web Integration:** HTML5, CSS3, JavaScript (ES6+, DOM Manipulation, Async/Fetch API)
 * **Databases & ORMs:** PostgreSQL, SQL Server, Entity Framework Core, Dapper, ADO.NET
 * **DevOps & Infrastructure:** Docker, Docker Compose, Linux VPS, Nginx, Traefik, Coolify, Cloudflare
 * **Testing & Quality:** xUnit, NUnit, Moq
@@ -20,10 +21,11 @@ I am an aspiring **.NET & Backend Developer** focused on building robust, scalab
 Here are the primary projects I am currently highlighting. You can find their full codebases pinned below:
 
 #### 1. 🛍️ Microservices E-Commerce Platform
-A decoupled, microservices-based web store designed to handle high-traffic backend operations.
-* **Key Implementations:** Built using four dedicated APIs (Catalog, User, Cart, and Order management) communicating via REST and dedicated background worker.
+A decoupled, microservices-based web store designed to handle high-traffic backend operations, paired with a dynamic Vanilla JavaScript frontend.
+* **Key Implementations:** Built using four dedicated APIs (Catalog, User, Cart, and Order management) communicating via REST and background workers. Developed an asynchronous Single-Page Application (SPA) utilizing Fetch API, Event Delegation, dynamic UI states, and reverse-proxy routing via Netlify to securely bridge microservices over HTTPS.
 * **Tech Stack:** ASP.NET Core, EF Core,  MS SQL Server, MassTransit, Hangfire, Cloudflare.
 * *[View Repository](https://github.com/kaxaniku/WebStore/tree/WebStore-Online)*
+* *[View Repository](https://github.com/kaxaniku/final-template)* --Frontend
 
 #### 2. 🏦 Secure Banking & Transaction API
 A robust, monolithic RESTful API designed to simulate core banking operations, focusing on strict data consistency, secure financial transactions, and identity management.
