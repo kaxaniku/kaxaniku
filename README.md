@@ -23,7 +23,7 @@ Here are the primary projects I am currently highlighting. You can find their fu
 #### 1. 🛍️ Microservices E-Commerce Platform
 A decoupled, microservices-based web store designed to handle high-traffic backend operations, paired with a dynamic Vanilla JavaScript frontend.
 * **Key Implementations:** Built using four dedicated APIs (Catalog, User, Cart, and Order management) communicating via REST and background workers. Developed an asynchronous Single-Page Application (SPA) utilizing Fetch API, Event Delegation, dynamic UI states, and reverse-proxy routing via Netlify to securely bridge microservices over HTTPS.
-* **Tech Stack:** ASP.NET Core, EF Core,  MS SQL Server, MassTransit, Hangfire, Cloudflare.
+* **Tech Stack:** ASP.NET Core, EF Core,  MS SQL Server, MassTransit/RabbitMQ, Hangfire, Serilog, Cloudflare.
 * *[View Repository](https://github.com/kaxaniku/WebStore/tree/WebStore-Online)*
 * *[View Repository](https://github.com/kaxaniku/final-template)* --Frontend
 
@@ -36,7 +36,7 @@ A robust, monolithic RESTful API designed to simulate core banking operations, f
 #### 3. ⚛️ RBMK-1000 Nuclear Reactor Simulation & Telemetry Engine
 A high-concurrency, domain-driven backend API and simulation engine modeling real-time nuclear thermodynamics, neutronics feedback loops, and 2D grid channel telemetry.
 * **Key Implementations:** Modeled dual-phase heat transfer, Doppler reactivity, and void coefficients using CQRS via MediatR and background tick workers (`IHostedService`). Implemented comprehensive unit testing with xUnit and Moq covering domain logic and repository filters.
-* **Tech Stack:** .NET 10, C#, MediatR, Entity Framework Core, PostgreSQL, xUnit, Moq.
+* **Tech Stack:** .NET 10, C#, MediatR, Entity Framework Core, PostgreSQL, xUnit, Moq, Serilog.
 * *[View Repository](https://github.com/kaxaniku/Nuclear-Reactor-Sim)*
 
 ---
